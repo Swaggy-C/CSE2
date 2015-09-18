@@ -1,9 +1,7 @@
 //Carter Prevost
 //CSE 002, Section 110
 //Lab 04
-/*  DESCRIBE THE PROGRAM
-FWEFEF WEFEF
-F FREFFWEFFEWFEWFEWFEWFEWFEFEF F WF2F EWF */
+/*  This program generates a random card from a deck of cards. */
 
 
 //Define class
