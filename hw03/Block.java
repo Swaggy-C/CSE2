@@ -11,7 +11,6 @@ public class Block{
     public static void main(String[] args) {
         Scanner myScanner3= new Scanner(System.in); //create an instance of Scanner
         
-            //Define the length, width and height of the block as doubles
             
                 //prompt user for the length of the block
                 System.out.print("Enter the length of the block: ");
