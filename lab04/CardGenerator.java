@@ -16,7 +16,7 @@ public class CardGenerator{
         String suit="doesn't matter";
         int newNum=card; 
         
-        //Change cases where the card number is greater than 13 to be within the 1<card<13 change
+        //Change cases where the card number is greater than 13 to be within the 1<card<13 range
         
           if (newNum<=13) {
               newNum=card;
