@@ -2,7 +2,8 @@
 //September 22, 2015
 //CSE 002, Section 110
  
-/* DESCRIBE THE PROGRAM   ENJFJKWQNDJKQWNDWQKLDNWQKLDNQWKLDNWQKLDNWQKLDNQWKLDNWKLNWQKLFWNQFKLQWNFKLQWNF */
+/* This program generates 5 random cards (from 5 different decks) and determines whether these cards contain
+a pair, two-pair, three of a kind, or high card. */
 
 //Define class
 public class PokerHandCheck{
