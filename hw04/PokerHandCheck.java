@@ -568,6 +568,7 @@ public class PokerHandCheck{
        //Define pairCounter 
        int pair=0; 
        /* 
+      
        if (cardName1==cardName2 || cardName1==cardName3 || cardName1==cardName4 || cardName1==cardName5) {
             pairCounter=pairCounter+1;
         } 
