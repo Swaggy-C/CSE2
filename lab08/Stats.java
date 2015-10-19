@@ -3,7 +3,7 @@ CSE 002, Section 110
 October 16, 2015
 Lab 08
 
-DESCRIBE THE PROGRAM YOU SILLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLY */
+This program prompts a user for 5 numbers and returns the mean and median. */
 
 
 import java.util.*; //import Scanner 
